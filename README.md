@@ -1,5 +1,5 @@
 # AppBlock
-Apple/Google App Store App ID For Malware/Spyware/"Adversarial State Controlled" Apps.
+Apple/Google App Store App IDs For Malware/Spyware/“Foreign Adversary Controlled Applications".
 
 # Note
 
